@@ -5,6 +5,7 @@ Im Diego Soto, Computer Engineering Student @ Universidad Austral de Chile (UACh
 I mostly work on web and desktop applications, learning about cybersecurity and improving my software architecture skills.
 
 ---
+# Tools & Tech
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" />
