@@ -2,7 +2,11 @@
 
 Soy Diego Soto, estudiante de ingeniería civil en informática en la Universidad Austral de Chile
 
-- Me gusta trabajar en aplicaciones, tanto webs como de escritorio, trabajar con bases de datos y la arquitectura/ingeniería de software.
+***Me gusta trabajar en:***
+- Aplicaciones webs
+- Aplicaciones de escritorio
+- Trabajar con bases de datos
+- Arquitectura/ingeniería de software.
 ---
 # Tools & Tech
 <p>
@@ -27,3 +31,7 @@ Soy Diego Soto, estudiante de ingeniería civil en informática en la Universida
 
 ---
 # About me
+
+- Tengo una fijación por las comunicaciones y redes
+- Me gustaría aprender sobre ciberseguridad
+- ///
