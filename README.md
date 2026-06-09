@@ -1,9 +1,8 @@
 ## Hi, i'm shyupss 👋
 
-Im Diego Soto, Computer Engineering Student @ Universidad Austral de Chile (UACh)
+Soy Diego Soto, estudiante de ingeniería civil en informática en la Universidad Austral de Chile
 
-I mostly work on web and desktop applications, learning about cybersecurity and improving my software architecture skills.
-
+- Me gusta trabajar en aplicaciones, tanto webs como de escritorio, trabajar con bases de datos y la arquitectura/ingeniería de software.
 ---
 # Tools & Tech
 <p>
