@@ -1,4 +1,4 @@
-## Hi, i'm shyupss 👋
+## Wena, i'm shyupss 👋
 
 Soy Diego Soto, estudiante de ingeniería civil en informática en la Universidad Austral de Chile
 
