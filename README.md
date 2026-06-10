@@ -38,4 +38,4 @@ Soy Diego Soto, estudiante de ingeniería civil en informática en la Universida
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b8wo59tzw5t9n3dkauua6v88k&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b8wo59tzw5t9n3dkauua6v88k&count={1})
