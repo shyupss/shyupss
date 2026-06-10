@@ -34,7 +34,7 @@ Soy Diego Soto, estudiante de ingeniería civil en informática en la Universida
 
 - Tengo una fijación por las comunicaciones y redes
 - Me gustaría aprender sobre ciberseguridad
-- ///
+- Participo y practico para competencias de programación
 
 ---
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b8wo59tzw5t9n3dkauua6v88k&count=1)
