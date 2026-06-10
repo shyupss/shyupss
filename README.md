@@ -37,5 +37,7 @@ Soy Diego Soto, estudiante de ingeniería civil en informática en la Universida
 - ///
 
 ---
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b8wo59tzw5t9n3dkauua6v88k&count=1)
+<p>
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b8wo59tzw5t9n3dkauua6v88k&count=1)
+  <img src="https://raw.githubusercontent.com/shyupss/shyupss/snake-output/snake.svg" alt="Snake animation" />  
+</p>
