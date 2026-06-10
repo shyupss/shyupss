@@ -8,7 +8,7 @@ Soy Diego Soto, estudiante de ingeniería civil en informática en la Universida
 - Trabajar con bases de datos
 - Arquitectura/ingeniería de software.
 ---
-# Herramientas & Tech
+# 💻 Tecnologías
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" />
