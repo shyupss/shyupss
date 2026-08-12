@@ -1,11 +1,10 @@
-# Wena, i'm shyupss 👋
+# Hi, i'm shyupss 👋
 
 Soy Diego Soto, estudiante de ingeniería civil en informática en la Universidad Austral de Chile
 
 ### ***Me gusta trabajar en:***
-- Aplicaciones webs
-- Aplicaciones de escritorio
-- Trabajar con bases de datos
+- Aplicaciones webs y de escritorio.
+- Trabajar y diseñar bases de datos.
 - Arquitectura/ingeniería de software.
 ---
 # 💻 Tecnologías
@@ -34,6 +33,7 @@ Soy Diego Soto, estudiante de ingeniería civil en informática en la Universida
 - Tengo una fijación por las comunicaciones y redes
 - Me gustaría aprender sobre ciberseguridad
 - Participo y practico para competencias de programación
+- El simple hecho de crear y resolver cosas me emociona
 
 ---
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b8wo59tzw5t9n3dkauua6v88k&count=1)
