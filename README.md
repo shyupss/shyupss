@@ -36,4 +36,6 @@ Soy Diego Soto, estudiante de ingeniería civil en informática en la Universida
 - El simple hecho de crear y resolver cosas me emociona
 
 ---
+<div style="display: flex; justify-content: center; align-items: center;">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=b8wo59tzw5t9n3dkauua6v88k&count=1)
+</div>
