@@ -15,7 +15,6 @@
 - Tengo una fijación por las comunicaciones y redes
 - Me gustaría aprender sobre ciberseguridad
 - Participo y practico para competencias de programación
-- El simple hecho de crear y resolver cosas me emociona
 
 # Me gusta:
 - Aplicaciones webs y de escritorio.
