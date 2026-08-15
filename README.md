@@ -57,6 +57,6 @@
 # 🎵 Songs
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/shyupss_">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=b8wo59tzw5t9n3dkauua6v88k&count={1}" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=shyupss_" alt="Spotify recently played"  />
   </a>
 </div>
