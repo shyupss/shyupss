@@ -22,6 +22,7 @@
 - Arquitectura/ingeniería de software.
 
 # 💻 Tech:
+
 ---
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
