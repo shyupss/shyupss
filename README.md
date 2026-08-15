@@ -18,10 +18,7 @@
 - Trabajar y diseñar bases de datos.
 - Arquitectura/ingeniería de software.
 
----
-
-# Sobre mi
-
+# Sobre mi:
 - Tengo una fijación por las comunicaciones y redes
 - Me gustaría aprender sobre ciberseguridad
 - Participo y practico para competencias de programación
